@@ -1,0 +1,11 @@
+org.esgi.ifind.indexer
+org.esgi.ifind.indexer.configuration
+org.esgi.ifind.indexer.dmoz
+org.esgi.ifind.indexer.dmoz.rdf
+org.esgi.ifind.indexer.gui
+org.esgi.ifind.indexer.gui.controller
+org.esgi.ifind.indexer.gui.view
+org.esgi.ifind.indexer.indexer
+org.esgi.ifind.indexer.indexer.parser
+org.esgi.ifind.indexer.pagerank
+org.esgi.ifind.indexer.watcher

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   url="https://i-find.googlecode.com/svn/trunk/IfindIndexer/lib"
+   kind="dir"
+   repos="https://i-find.googlecode.com/svn"
+   schedule="add"
+   revision="0"/>
+</wc-entries>

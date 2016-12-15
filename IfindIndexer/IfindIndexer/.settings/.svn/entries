@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   url="https://i-find.googlecode.com/svn/trunk/IfindIndexer/.settings"
+   kind="dir"
+   repos="https://i-find.googlecode.com/svn"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="org.eclipse.jdt.core.prefs"
+   kind="file"
+   schedule="add"/>
+</wc-entries>
