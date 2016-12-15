@@ -6,7 +6,6 @@ import view.MainView;
 
 public class Model {
 	
-	//Private constructor to forbid override this data
 	private Model(){
 		
 	}
